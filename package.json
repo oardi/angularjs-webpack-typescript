@@ -13,7 +13,7 @@
 		"@types/angular": "1.6.56",
 		"@types/angular-route": "1.7.0",
 		"@types/node": "7.0.22",
-		"angular": "1.7.9",
+		"angular": "1.8.0",
 		"angular-route": "1.7.9",
 		"bootstrap": "^3.3.7"
 	},
